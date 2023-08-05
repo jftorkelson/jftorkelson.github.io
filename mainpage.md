@@ -17,4 +17,4 @@ I study the biogeochemistry of sediment in coastal systems, primarily focusing o
 In my free time I enjoy exploring with my dog Flynn, reading, fishing, diving, cross stitching and drinking tea. Flynn is working on getting certified as a therapy dog after getting certified as a canine good citizen.
 
 ####  Contact Me:
-  Email: jftork@gmail.com
+  Email: jaclyntorkelson@trincoll.edu
