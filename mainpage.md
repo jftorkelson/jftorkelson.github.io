@@ -1,3 +1,7 @@
+# Dr. Jaclyn Torkelson
+## PhD, Environmental Chemistry
+### Marine Biogeochemistry
+
 Hello! I am a Visiting Assistant Professor of Chemistry at Trinity College in Hartford, CT. In Spring 2023 I earned a PhD in Environmental Chemistry focusing on marine biogeochemistry under Dr. Mark Teece at the State University of New York College of Environmental Science and Forestry (SUNY ESF). I hold a BS in chemistry and a BS in environmental science from Northern Arizona University.
 
 As a first generation college student I know the struggle to belong in the classroom and not having the confidence to raise my hand. Through teaching at Trinity College, SUNY ESF, and Onondaga Community College I work to encourage students to ask silly questions. Whether a student is struggling to understand or wants to go deeper into the material, there is always a place for questions in my classroom or office.
