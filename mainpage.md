@@ -1,3 +1,10 @@
+---
+layout: page  
+title: Dr. Jaclyn Torkelson
+permalink: /  
+show-avatar: true
+---
+
 # Dr. Jaclyn Torkelson
 ## PhD, Environmental Chemistry
 ### Marine Biogeochemistry
