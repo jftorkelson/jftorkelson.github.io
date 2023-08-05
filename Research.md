@@ -2,7 +2,7 @@ I study the interaction of sediment between coastal ecosystems, primarily focuse
 
 As an undergraduate at Northern Arizona University I studied unregulated water sources on the Navajo Nation. I have since transitioned to another oligotrophic system: coral reefs. I have also worked at Mote Marine Laboratories aiding in a project looking at the interactions between sargassum and staghorn coral under the effects of ocean acidification.
 
-## A dynamic energy budget for coral-_Symbiodinium_ symbiosis with particulate matter input <br />
+## A dynamic energy budget for coral- _Symbiodinium_ symbiosis with particulate matter input <br />
 Stony coral are known to ingest particulate matter and assimilate carbon and nitrogen. I put together a dynamic energy budget for coral-Symbiodinium symbiosis which takes particulate matter into account as a nutrient source and the influence of particulate matter reducing light availability. <br />
 PI: Dr. Jaclyn Torkelson, Dr. Jeremy Testa, and Dr. Mark Teece
 
@@ -15,7 +15,7 @@ Collaborators: Dr. Erinn Muller and Dr. Grace Klinges
 While the transfer of nitrogen and phosphorous between ecosystems has been extensively studied, there has been little done to understand the transport of lipids and trace metals between ecosystems. I am using GC-MS and ICP-MS to quantify lipid and trace metal concentrations in surface sediment from coral reefs, mangrove forests, seagrass meadows, and beaches. <br />
 PI: Dr. Jaclyn Torkelson and Dr. Mark Teece
 
-## Zooplankton derived organic matter as a food source for benthic coral br />
+## Zooplankton derived organic matter as a food source for benthic coral <br />
 Zooplankton are vital players in the biological pump of the open ocean. However, it was previously thought that the water column on coral reefs was too shallow for zooplankton fecal pellets to play a major role. Our results indicate zooplankton as the primary driver of settling particles in the Upper Florida Keys. <br />
 PI: Dr. Jaclyn Torkelson, Dr. Jesse Crandall, and Dr. Mark Teece
 
